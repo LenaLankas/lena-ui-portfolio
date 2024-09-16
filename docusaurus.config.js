@@ -7,11 +7,11 @@ const config = {
   tagline: "Showcasing My Work and Thoughts",
   favicon: "img/favicon.ico",
 
-  url: "https://your-domain.com", // Replace with your actual domain
-  baseUrl: "/",
+  url: "https://lenalankas.github.io", // Replace with your actual domain
+  baseUrl: "/lena-ui-portfolio/",
 
-  organizationName: "your-org", // Replace with your GitHub org/user name
-  projectName: "my-ui-portfolio", // Replace with your repo/project name
+  organizationName: "LenaLankas", // Replace with your GitHub org/user name
+  projectName: "lena-ui-portfolio", // Replace with your repo/project name
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -54,7 +54,7 @@ const config = {
           { to: "/blog", label: "Blog", position: "left" },
           { to: "/contact", label: "Contact", position: "right" },
           {
-            href: "https://github.com/your-org/my-ui-portfolio",
+            href: "https://github.com/LenaLankas/lena-ui-portfolio",
             label: "GitHub",
             position: "right",
           },

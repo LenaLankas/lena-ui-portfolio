@@ -10,7 +10,6 @@ tags: [directedanalysis]
 Learning about affordances and signifiers has made me pay attention more to the everyday things I interact with. More specifically, I'm noticing these interactions within my new apartment building. I'm noticing symbolism that makes me think I can take a certain action (signifiers) and then noticing whether or not those actions are actually possible (affordances) -- or sometimes the other way around. All my interactions are seemingly subconscious, yet each action I make is backed by some sort of thoughtful design. My favorite interaction I consciously thought about since putting on my designer hat is one I had with my front door:
 
 
-
 !!!! I'll put the photo here when I transfer over to a blog post !!!!
 
 
