@@ -3,8 +3,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "My UI Portfolio",
-  tagline: "Showcasing My Work and Thoughts",
+  title: "Lena's UI Portfolio",
+  tagline: "my ui class yay",
   favicon: "img/favicon.ico",
 
   url: "https://lenalankas.github.io", // Replace with your actual domain
@@ -43,7 +43,7 @@ const config = {
     ({
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "My UI Portfolio",
+        title: "Lena's UI Portfolio",
         logo: {
           alt: "My UI Portfolio Logo",
           src: "img/logo.svg",
