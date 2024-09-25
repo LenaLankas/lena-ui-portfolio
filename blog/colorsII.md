@@ -1,7 +1,7 @@
 ---
 title: I like boring colors
 slug: /colors-II-blog-post
-date: 2024-09-16T23:51:00Z
+date: 2024-09-23T23:34:00Z
 tags: [freeform]
 ---
 
