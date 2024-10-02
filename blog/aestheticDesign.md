@@ -7,6 +7,9 @@ tags: [tutorial]
 
 # How to Make a Presentation (for Dummies)
 
+![title](/img/graphicdesign.png)
+
+
 1. The first step to making a presentation is deciding what you're going to talk about. When doing this, you aren't just considering the subject matter, but also the message you want your audience to walk away with. Motivated by this, you should create an outline. Focus on the flow. Give each bullet point on your list a slide. Don't make it fancy. 
 2. Now think about the type of content that will be included under each bullet point. What do you want to say? Don't think about the visual aids yet. Think about what you would say if you had to give this same presentation in an elevator. 
 3. Once you've thought about your spoken content, look back through your bullet points. Are any of them too weighted? You want to avoid cramming too much information into one slide. Spending too long on one slide will disengage your audience, and likely result in a cluttered visual aid to accompany it.

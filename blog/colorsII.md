@@ -7,6 +7,8 @@ tags: [freeform]
 
 # I like boring colors
 
+![title](/img/neutrals.png)
+
 I like the more boring colors. Brown, white, taupe. At first glance, this seems very contrary to my personality. However, after reading through some of the descriptions and associations, it makes sense. The one I most closely aligned with was the "brown" description. Which makes sense, because although I always say white is my favorite color, neutral browns draw me in more so. My entire room is different shades of white and brown, and something about natural wood has always been my favorite interiors. Below is a list of the different statements I said "that's so me" to:
 
 - Stability
