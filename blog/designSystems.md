@@ -1,11 +1,11 @@
 ---
-title: Design Systems
+title: Life is like a box of legos
 slug: /design-systems-blog-post
 date: 2024-10-03T10:07:00Z
 tags: [approximateanalogy]
 ---
 
-# Design Systems
+# Life is like a box of legos
 
 ![title](/img/legocatalog.jpeg)
 
