@@ -1,6 +1,6 @@
 ---
 title: Museum Walkthrough
-slug: /design-systems-blog-post
+slug: /museum-walkthrough-blog-post
 date: 2024-10-04T12:30:00Z
 tags: [freeform]
 ---
