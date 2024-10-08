@@ -1,11 +1,11 @@
 ---
-title: Walmart
+title: If Lost, Return To ____ 
 slug: /navigation-and-values-blog-post
 date: 2024-10-07T23:0:00Z
 tags: [freeform]
 ---
 
-# Walmart
+# If Lost, Return To ____ 
 
 Reading this chapter of Don't Make Me Think was very timely. Just yesterday, I had the exact experience described in the reading. I went to Walmart before my philanthropy event to do some last minute shopping. On my list: raffle tickets, baskets, and giftcards.
 
