@@ -1,7 +1,7 @@
 ---
 title: If Lost, Return To ____ 
 slug: /navigation-and-values-blog-post
-date: 2024-10-07T23:0:00Z
+date: 2024-10-07T23:00:00Z
 tags: [freeform]
 ---
 
