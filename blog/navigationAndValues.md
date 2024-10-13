@@ -7,6 +7,8 @@ tags: [freeform]
 
 # If Lost, Return To ____ 
 
+![title](/img/bigwalmart.jpg)
+
 Reading this chapter of Don't Make Me Think was very timely. Just yesterday, I had the exact experience described in the reading. I went to Walmart before my philanthropy event to do some last minute shopping. On my list: raffle tickets, baskets, and giftcards.
 
 My decision making process started even before I got to Walmart. I first started by googling "raffle tickets in Lincoln". I got a few different options, but Walmart was the closest and cheapest. I then clicked on the link to confirm they had them in stock at that location. Not only did I get confirmation that they were in stock, but I also got a preview of exactly what aisle to find them in. I walked into the store and found them almost immediately. They were in a crafting section, which I suppose seems fitting, but I never would have found on my own. This was a very streamlined experience and took me a total of 30 seconds. 
@@ -22,7 +24,5 @@ I learned a few things
 - People expect the expected. If every other store puts their giftcards in one spot, you should also put your giftcards there. 
 - Don't make people feel claustrophobic. It's hard to search for a needle in a haystack. It's even harder in a really compact one.
 - Make signs big! And in the air! So that you can see them from far away or when something is in front of the display! 
-
-![title](/img/bigwalmart.jpg)
 
 Reading: Don't Make Me Think
