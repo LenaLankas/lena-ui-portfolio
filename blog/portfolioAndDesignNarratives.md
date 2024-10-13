@@ -18,4 +18,6 @@ One's UI portfolio is essentially a resume, cover letter, behavioral interview, 
 - Make sure there are clear links to learn more about those projects (and if you are showing previews, make sure the thumbnails are cohesive)
 - Include links for resume, contact information, and about me
 - White space! Make sure you have enough of it! 
-- Walk through your portfolio. Do you feel like it represents you well? Have a frined walk through your portfolio. DO they feel like it represents you well? You want to prove your comptence as a designer as well as assert your values as one. 
+- Walk through your portfolio. Do you feel like it represents you well? Have a friend walk through your portfolio. Do they feel like it represents you well? 
+
+You want to prove your competence as a designer as well as assert your values as one. 
