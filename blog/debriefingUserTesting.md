@@ -7,9 +7,10 @@ tags: [freeform]
 
 # Testing... Testing... 1, 2, 3
 
-This specific reading really stuck out to me as valuable. Some of the quotes were entirely new concepts to me and helped change my frame of mind. Most of the quotes were things I've already heard or subconsciously knew, but have to be reminded of. I found myself wanting to highlight every other sentence to come back to. I've narrowed it down instead to every sixth sentence (give or take):
-
 <img src = "..//img/testingcomic.jpg" width="100%" />
+
+
+This specific reading really stuck out to me as valuable. Some of the quotes were entirely new concepts to me and helped change my frame of mind. Most of the quotes were things I've already heard or subconsciously knew, but have to be reminded of. I found myself wanting to highlight every other sentence to come back to. I've narrowed it down instead to every sixth sentence (give or take):
 
 "The kinds of things you learn from focus groups...are things you should know before you begin designed or building anything..."
 

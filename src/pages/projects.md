@@ -3,11 +3,7 @@ title: Projects
 slug: /projects
 ---
 
-# Projects
+# Fytt App Remake 
 
-Here are some of the projects I've worked on:
+<iframe width="800" height="450" src="https://embed.figma.com/design/1cQhzquNArojyOqv2LtuvV/FYTT-Remake?node-id=3-56&embed-host=share" allowfullscreen></iframe>
 
-- **Project 1**: Description of your first project.
-- **Project 2**: Description of your second project.
-
-<!-- Add more project descriptions -->

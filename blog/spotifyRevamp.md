@@ -11,7 +11,7 @@ Spotify is one of my favorites apps in terms of UI and branding. They go viral e
 
 Figma link: https://www.figma.com/design/odpEm4dpZMPqShL2abrDp6/Spotify-Rework?node-id=0-1&t=B89objaMqsc8fwMx-1 
 
-<img src="C:\Users\Lena\Downloads\Raik183 CompSci\lena-ui-portfolio\static\img\spotifyoriginalandrecreate.png" alt="spotify original and recreate" width="200"/>
+<img src="/static/img/spotifyoriginalandrecreate.png" alt="spotify original and recreate" width="200"/>
 ![title](/img/spotifyoriginalandrecreate.png)
 
 The original Spotify is not a harmonious color scheme, thought that doesn't mean it isn't effective. Black dominates most of the interface, allowing the white text to jump off the screen and "Spotify green" icons to catch your eye. Based on the pantone reading, this green is supposed to make us feel lush and fertile, with therapeutic benefits. Though the association is supposed to be nature, I feel as though against the black background it's more action packed and inviting. The black can take on a handful of associations given the scenario (aka what music you're listening to): powerful, gloomy, elegance, etc. The white has great contrast off this, making for very high readability. I think the designers were hoping to blend into the background, allowing for the music to take center stage. Many parts of the application use shades of the album cover to complement the artist/song before you (the current song background and the gradient). I think they want to serve as a backdrop for their art, allowing the pictures and names to be the focal point. The green is a call to action to press play and enjoy. 
