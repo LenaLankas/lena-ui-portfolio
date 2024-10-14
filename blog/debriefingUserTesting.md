@@ -1,11 +1,11 @@
 ---
-title: user 
+title: Testing... Testing... 1, 2, 3
 slug: /debriefing-user-testing-blog-post
 date: 2024-10-13T21:48:00Z
 tags: [freeform]
 ---
 
-# user
+# Testing... Testing... 1, 2, 3
 
 This specific reading really stuck out to me as valuable. Some of the quotes were entirely new concepts to me and helped change my frame of mind. Most of the quotes were things I've already heard or subconsciously knew, but have to be reminded of. I found myself wanting to highlight every other sentence to come back to. I've narrowed it down instead to every sixth sentence (give or take):
 
