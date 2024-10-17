@@ -11,4 +11,4 @@ This reading really reasonated with me. I found myself too often being able to t
 
 <img src = "..//img/accessibilityui.jpg" width="100%" />
 
-A particularly interesting use case I didn't think about was games. A lot of online games are based entirely on sight and slight color/icon distinctions. This makes for a really terrible experience for colorblind and other visual impairments. The problem solving part also heavily relies on visual aid/pattern recognition. It makes me wonder how (or if) these games would adjust to become accessible. I would be interested to learn more about accessibility in gaming. 
+A particularly interesting use case I didn't think about was games. A lot of online games are based entirely on sight and slight color/icon distinctions. This makes for a really terrible experience for colorblind and other visual impairments. The problem solving part also heavily relies on visual aid/pattern recognition. It makes me wonder how (or if) these games would adjust to become accessible. I would be interested to learn more about accessibility in gaming.
