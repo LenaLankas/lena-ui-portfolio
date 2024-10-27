@@ -8,6 +8,7 @@ tags: [tutorial]
 # The Interview.
 
 Interviewing is a skill. It takes practice and preparation. Every time after an interview - without fail - I'll be in the shower or drifting to sleep when genius strikes and I realize "I wish I would have answered that question like this instead". Or  somewhere I end up learning new information a few days/weeks/months later and think to myself "man I wish I knew that when I interviewed". There's always going to be those post-interview coulda, shoulda, wouldas. Now, some of it can be attributed to the natural progression of yourself as a professional. You can't always expect to have all the answers early in your career. You're supposed to learn as you go. However, there is a good portion of that regret that can be mitigated if you anticipate it. 
+
 ![title](/img/hired.png)
 
 1. Prepare Common Questions
@@ -30,9 +31,9 @@ Interviews are about giving good answers and asking good questions. The second p
     - How would my performance be measured in this role? What does success look like?
 8. Connect with the Interviewer
 At the end of the day, your interviewer is a person too. You should be engaging with them. Show active listening. Ask questions about the company, but also ask them about themselves. Creating a genuine connection with them will help you in more than a few ways...
-- They could have sat through 3 other interviews before this, or 50. Regardless of the number, building a connection will help you stand out when writing their reviews. It's likely your competition also has a dazzling portfolio. 
-- Companies are hiring for skill and cultural fit. Especially in 2024, the latter is increasingly important. Being a great designer doesn't necessarily mean you'll be a great fit. You want your interviewer to be confident in your ability to integrate into the company quickly and bring positive energy. 
-- You might not get the job. That doesn't mean you are a bad designer. That just means there was someone who was a better fit. But making a genuine connection with the interview can open you up to future opportunities, help you build your network to find other opportunities, or simply leave you with a new friend. 
+    - They could have sat through 3 other interviews before this, or 50. Regardless of the number, building a connection will help you stand out when writing their reviews. It's likely your competition also has a dazzling portfolio. 
+    - Companies are hiring for skill and cultural fit. Especially in 2024, the latter is increasingly important. Being a great designer doesn't necessarily mean you'll be a great fit. You want your interviewer to be confident in your ability to integrate into the company quickly and bring positive energy. 
+    - You might not get the job. That doesn't mean you are a bad designer. That just means there was someone who was a better fit. But making a genuine connection with the interview can open you up to future opportunities, help you build your network to find other opportunities, or simply leave you with a new friend. 
 
 Videos:
 "UX/UI Interview Questions with Answers and Tipes! (from a Google UX Designer)" by Ricardo Hernandez
