@@ -36,6 +36,7 @@ At the end of the day, your interviewer is a person too. You should be engaging 
     - You might not get the job. That doesn't mean you are a bad designer. That just means there was someone who was a better fit. But making a genuine connection with the interview can open you up to future opportunities, help you build your network to find other opportunities, or simply leave you with a new friend. 
 
 Videos:
+
 "UX/UI Interview Questions with Answers and Tipes! (from a Google UX Designer)" by Ricardo Hernandez
 
 "How to Ace Your UI/UX Design Interview | The Ultimate Guide" by DesignWithArash
