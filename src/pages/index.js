@@ -17,15 +17,26 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}></div>
-        <h3>Blog Posts</h3>
-        <br></br>
+        <div className={styles.buttons}>
         <Link
           className="button button--secondary button--lg"
-          to="/blog/affordances-and-signifiers-I-blog-post"
+          to="/blog/affordances-and-signifiers-I-blog-post"        
         >
-          My first blog
+          my first blog
         </Link>
+        <Link
+          className="button button--secondary button--lg"
+          to="/blog/museum-walkthrough-blog-post"        
+        >
+          my favorite blog
+        </Link>
+        <Link
+          className="button button--secondary button--lg"
+          to="/projects"
+        >
+          a recent project
+        </Link>
+        </div>
       </div>
     </header>
   );
@@ -35,7 +46,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Lena Lankas`}
       description="Description will go into a meta tag in <head />"
     >
       <HomepageHeader />
