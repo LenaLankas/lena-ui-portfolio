@@ -29,7 +29,7 @@ I need a weather app that takes me back to these feelings and emotions so I can 
 
 Something insightful I learned throughout this process is that this is actually a really great idea and I need to trademark it. 
 
-INSERT CITATION FOR ART
+
 Other sources:
 
 https://photographylife.com/the-rule-of-thirds#:~:text=The%20Rule%20of%20Thirds%20is%20a%20type%20of

@@ -10,10 +10,10 @@ slug: /projects
 As a member of the dance team, I have required weight training every Tuesday and Thursday at 6am. Although I enjoy the workouts, the communication and tracking can be a pain. My user story chronicles this. The full story can be found at the bottom of the page, but the gist is this:
 - The old fashioned way of reading your workout on a whiteboard increases your cognitive load and makes for a less efficient workout
 - Without a tracking system, you have to memorize your weights from week to week which increase cognitive load, leaves room for user error (bad memory), and results in less weight progression
+-Tracking on pen and paper takes up space on pen and paper and makes aggregating information difficult
+- Using a mobile application to display workouts and store workout history would make for a better experience
+- However, the current leader in this space, FYTT, has a very clunky UI that leads to frustrations in other areas
 
-Tracking on pen and paper takes up space on pen and paper and makes aggregating information difficult
-Using a mobile application to display workouts and store workout history would make for a better experience
-However, the current leader in this space, FYTT, has a very clunky UI that leads to frustrations in other areas
 That’s why I decided to remake the FYTT application, but with a more environmentally and user friendly UI. I lived through both eras. I was Sarah (see user story at bottom of the page). This, and my access to athletes and athletic trainers, made me the perfect candidate to take on this redesign. I’m constantly surrounded by the target user: an athlete completing a workout template given to them by their trainer. Throughout the process, I was able to ask questions and get feedback on iterations of my prototype. After all, the ultimate goal is to improve their workout experience.
 
 My UI was centered around two values: Achievement and Order. My teammates and I want to get the most efficient workout possible while leveling up our athleticism. We want to spend less energy entering our weights, and more energy pushing those weights. To facilitate achievement, I made sure the UI was very progress oriented. The history tab enables users to easily view their past achievements in certain workouts and help them gauge their progressive overload schedule. The trAIner tab summarizes progress and will give workout suggestions to help users take their workout to the next level. Part of achievement is also accountability, which is why throughout the interface there are clear indicators of completion and reminders to help encourage along the way (email and push notification opt-ins). The use of red sparingly throughout the interface is meant to be a symbol of accomplishment (start workout button, completed workout icon, PRs). To promote the value of order, I aimed to make the UI intuitive structurally and symbolically. I wanted limited copy/text so as to not distract the user and make sure only the most important sections were called out, but the trade-off to this is that it requires a very intuitive UI. The issue with the FYTT app as it is currently implemented, is that there is a lot of nesting and content shifting throughout. It makes for awkward workflows and an overwhelming number of clicks. My redesign was meant to be simple. It just needs to do the job. Users need to be able to see their workout, enter their weights, and retro as needed. No extra fluff.
@@ -35,7 +35,13 @@ The purpose of these tasks is to gauge the ease of finding information and compl
 
 I am very proud of the product that came out of this entire process. I showcased the redesign to my trainer and teammates and it was met with an overwhelmingly positive response. I encourage anyone reading this to scroll back up to the embedded figma and use the dropdown in the upper left corner to see how this design changed and evolved over the semester. And I HIGHLY encourage anyone reading this to do that AFTER reading the user story below…you know…to get in the right headspace…
 
+
+
+
+
+
 User Story (the origin):
+
 Beep Beep Beep! Sarah, a D1 athlete at UNL, smacks the snooze button and rolls over. A minute later, she comes to her senses and opens her eyes. She feels around her bedside table until she finds something shaped like an iPhone. She clicks the power button and is alarmed by three things: her brightness is all the way up, her phone is at 12%, and lift is in 15 minutes!
 	
 Sarah scrambles to find her team t-shirt and runs out the door — protein bar in hand — with only a few minutes to spare. She speeds to the stadium and runs up the stairs to catch her teammates. As she walks through the doors of the weight room, she glances at the clock. 5:58 am. The sun won’t be rising for another hour or two, and she already wants to go back to bed. The only thing that can make this morning more dreadful is hearing the words “alright, open the FYTT app”...and yet those are the words that come out of her strength trainer’s mouth only 30 seconds later.
