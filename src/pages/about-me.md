@@ -11,7 +11,7 @@ Welcome to my portfolio! My name is Lena Lankas and I am a junior studying compu
 
 But first, here's my resume! Oooooo! Ahhhhhh! 
 
-<img src = "..//img/oldresumepic.jpeg" width="100%" />
+<img src = "..//img/resumefixed.jpeg" width="100%" />
 
 
 <!-- Add more content about yourself -->
