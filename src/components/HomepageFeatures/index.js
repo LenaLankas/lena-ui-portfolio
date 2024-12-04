@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Function and Fashion',
+    Svg: require('@site/static/img/gem.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        I'm a designer who's all about aesthetics. But I'm also one who thinks order and structure are of utmost importance. I keep these ideas at the forefront of my mind when designing so the user experience is enjoyable (not ugly or frustrating).
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Creativity and Customization',
+    Svg: require('@site/static/img/brush.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        My typical design process involves a large (potentially excessive) number of variations and concepts. My mind is always running with ideas and I have to see them all to fruition to feel confident in the final product. Not only do I hope my designs reflect this, but also that they empower users in the same way to take control of their experience.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Efficiency and Achievement',
+    Svg: require('@site/static/img/trophy.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        I strive to make everyday my best day, and every project my best project. My UIs reflect the modern user's energy and enthusiasm. I want my applications to be an extension of the user's productivity; as leverage to be 1% better.
       </>
     ),
   },
@@ -42,6 +39,8 @@ function Feature({Svg, title, description}) {
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
+        <Heading as="h3">{}</Heading>
+        <Heading as="h3">{}</Heading>
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
       </div>
