@@ -22,7 +22,9 @@ Enter the FYTT app. A nifty little software for planning, previewing, and tracki
 
 
 ## What's wrong with the app as is? 
-As a member of the dance team, I have required weight training every Tuesday and Thursday at 6am. Although I enjoy the workouts, the communication and tracking can be a pain. My user story chronicles this. The full story can be found at the bottom of the page, but the gist is this:
+As a member of the dance team, I have required weight training every Tuesday and Thursday at 6am. Although I enjoy the workouts, the communication and tracking can be a pain: 
+
+
 - The old fashioned way of reading your workout on a whiteboard increases your cognitive load and makes for a less efficient workout
 - Without a tracking system, you have to memorize your weights from week to week which increase cognitive load, leaves room for user error (bad memory), and results in less weight progression
 - Tracking on pen and paper takes up space on pen and paper and makes aggregating information difficult
