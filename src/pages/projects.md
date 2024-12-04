@@ -7,6 +7,7 @@ slug: /projects
 
 <iframe width="800" height="600" src="https://embed.figma.com/design/1cQhzquNArojyOqv2LtuvV/FYTT-Remake?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
+# Background 
 As a member of the dance team, I have required weight training every Tuesday and Thursday at 6am. Although I enjoy the workouts, the communication and tracking can be a pain. My user story chronicles this. The full story can be found at the bottom of the page, but the gist is this:
 - The old fashioned way of reading your workout on a whiteboard increases your cognitive load and makes for a less efficient workout
 - Without a tracking system, you have to memorize your weights from week to week which increase cognitive load, leaves room for user error (bad memory), and results in less weight progression
@@ -16,13 +17,15 @@ As a member of the dance team, I have required weight training every Tuesday and
 
 That’s why I decided to remake the FYTT application, but with a more environmentally and user friendly UI. I lived through both eras. I was Sarah (see user story at bottom of the page). This, and my access to athletes and athletic trainers, made me the perfect candidate to take on this redesign. I’m constantly surrounded by the target user: an athlete completing a workout template given to them by their trainer. Throughout the process, I was able to ask questions and get feedback on iterations of my prototype. After all, the ultimate goal is to improve their workout experience.
 
+# Values 
 My UI was centered around two values: Achievement and Order. My teammates and I want to get the most efficient workout possible while leveling up our athleticism. We want to spend less energy entering our weights, and more energy pushing those weights. To facilitate achievement, I made sure the UI was very progress oriented. The history tab enables users to easily view their past achievements in certain workouts and help them gauge their progressive overload schedule. The trAIner tab summarizes progress and will give workout suggestions to help users take their workout to the next level. Part of achievement is also accountability, which is why throughout the interface there are clear indicators of completion and reminders to help encourage along the way (email and push notification opt-ins). The use of red sparingly throughout the interface is meant to be a symbol of accomplishment (start workout button, completed workout icon, PRs). To promote the value of order, I aimed to make the UI intuitive structurally and symbolically. I wanted limited copy/text so as to not distract the user and make sure only the most important sections were called out, but the trade-off to this is that it requires a very intuitive UI. The issue with the FYTT app as it is currently implemented, is that there is a lot of nesting and content shifting throughout. It makes for awkward workflows and an overwhelming number of clicks. My redesign was meant to be simple. It just needs to do the job. Users need to be able to see their workout, enter their weights, and retro as needed. No extra fluff.
 	
 <img src = "..//img/FYTTstructure.jpeg" width="100%" />
 <img src = "..//img/FYTTsketch.jpeg" width="100%" />
 
 This early strutcure map and sketch showcase a clear focus on achievement and order, while also optimizing the workflow. The original workflow only showed one day per page, meaning if I wanted to see a workout a week in advance, I had to click the next arrow seven times. There was no concept of a high level overview. Focusing my homepage around a calendar that shows progress and previews workouts was a fundamental part of the redesign. Inside the actual workout workflow, the original design had very small text and each workout was hidden below a drop down which then popped up the native keyboard and shifted the content. My redesign includes a built-in keyboard to address the shifting. The larger texts and icons makes the workout more digestible. You can see at a glance what kind of input is required of you (barbell=pounds, timer=time, etc). Naturally, there is a lot of text for describing the workouts, so I made sure to use a sans-serif font for accessibility. Overall, I believe these decisions ladder up to a much more efficient workflow that accomplishes all the same things the original application did, but in a more efficient way.
-	
+
+# User Testing 	
 After I had my first iteration of the design, I was able to start user testing. I interviewed a mix of individuals: those who fell within my target population (workout under a trainer regularly) and those who didn’t (limited workout experience). Below are the tasks these individuals were given:
 - You are a student athlete and arrive at your weight room in the morning. Your trainer isn’t there, but you see she left a note for you: “Complete your October 10th workout”
 - You run into your trainer later that day at lunch and she asks you how much you benched. You respond saying…
@@ -40,7 +43,7 @@ I am very proud of the product that came out of this entire process. I showcased
 
 
 
-User Story (the origin):
+# User Story (the origin):
 
 Beep Beep Beep! Sarah, a D1 athlete at UNL, smacks the snooze button and rolls over. A minute later, she comes to her senses and opens her eyes. She feels around her bedside table until she finds something shaped like an iPhone. She clicks the power button and is alarmed by three things: her brightness is all the way up, her phone is at 12%, and lift is in 15 minutes!
 	
