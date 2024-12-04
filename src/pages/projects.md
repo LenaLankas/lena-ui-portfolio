@@ -54,6 +54,10 @@ The purpose of these tasks is to gauge the ease of finding information and compl
 
 <img src = "..//img/usertestingchanges.jpeg" width="100%" />
 
+
+
+## So where's the final product?
+
 I am very proud of the product that came out of this entire process. I showcased the redesign to my trainer and teammates and it was met with an overwhelmingly positive response. I encourage anyone reading this to scroll back up to the embedded figma and use the dropdown in the upper left corner to see how this design changed and evolved over the semester. And I HIGHLY encourage anyone reading this to do that AFTER reading the user story below…you know…to get in the right headspace…
 
 <iframe width="800" height="600" src="https://embed.figma.com/design/1cQhzquNArojyOqv2LtuvV/FYTT-Remake?node-id=0-1&embed-host=share" allowfullscreen></iframe>
