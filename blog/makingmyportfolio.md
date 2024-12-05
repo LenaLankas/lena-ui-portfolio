@@ -1,13 +1,13 @@
 ---
-title: UIUN Summit Recap
+title: The Secret Formula
 slug: /making-my-portfolio-blog-post
 date: 2023-01-01T01:01:01Z
 tags: [freeform]
 ---
 
-# Making my portfolio
+# The Secret Formula
 
-<img src = "..//img/UIUNlogo.jpeg" width="100%" />
+<img src = "..//img/secretformula.jpeg" width="100%" />
 
 Well well well...look at you! What a curious individual you are to have found this post. I set the date to new years day of 2023, so that it would be buried beneath my many blog posts. Even before the example blog post that I intentionally put as a red herring to deter you from entering (or is it because I get an error everytime I try to delete it? We'll never know!). Regardless, color me impressed. I applaud you for your thoroughness (unless you're Carly...then in that case I submitted the link to this blog to TeachFront which makes finding this much less impressive). Anyways let's get into the content. 
 
